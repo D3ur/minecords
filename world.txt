@@ -2,3 +2,4 @@
 2 73 900	nether portal
 233 53 677	pilliger towery
 
+world
